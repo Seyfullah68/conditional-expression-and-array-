@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691625957 source:c:\users\seyfu\onedrive\masaüstü\c\aritmetik islem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

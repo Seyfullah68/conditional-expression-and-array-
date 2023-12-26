@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694128855 source:c:\users\seyfu\onedrive\masaüstü\c\seridgr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
